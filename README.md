@@ -15,7 +15,10 @@ The current project only contains one markup file, which drives you explains how
 
 ## Credits
 Author: Benny Gabel
-Github Repository:  [![Github Repository](https://github.com/BennyGabel/regex-tutorial)
+Repository:  
+[!Github Repository](https://github.com/BennyGabel/regex-tutorial)
+
+[!Gist Repository](https://gist.github.com/BennyGabel/b6725cc9128d9b7daaf2d25e2bb3927d)
 
 
 ## License  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
